@@ -22,7 +22,7 @@ A modern and responsive personal portfolio showcasing my projects, technical ski
 - 📧 Contact Form (EmailJS)
 - 🎥 Smooth Animations (Framer Motion)
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -43,7 +43,7 @@ A modern and responsive personal portfolio showcasing my projects, technical ski
 
 - Vercel
 
----
+
 
 ## 📂 Folder Structure
 
@@ -57,7 +57,7 @@ src/
  └── app/
 ```
 
----
+
 
 ## 🚀 Getting Started
 
@@ -79,7 +79,6 @@ npm install
 npm run dev
 ```
 
----
 
 ## 🔑 Environment Variables
 
@@ -91,7 +90,6 @@ NEXT_PUBLIC_EMAILJS_TEMPLATE_ID=your_template_id
 NEXT_PUBLIC_EMAILJS_PUBLIC_KEY=your_public_key
 ```
 
----
 
 ## 🤝 Contributions
 We welcome pull requests! For major changes, please open an issue to discuss what you'd like to improve or add.
