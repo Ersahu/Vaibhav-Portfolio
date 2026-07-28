@@ -1,13 +1,13 @@
 # 🚀 Vaibhav Portfolio
 
 A modern and responsive personal portfolio showcasing my projects, technical skills, education, experience, and achievements in Software Development, Full-Stack Development, and Artificial Intelligence.
----
+
 
 ## 🌐 Live Demo
 
 🔗 **Portfolio:** https://your-vercel-link.vercel.app
 
----
+
 
 ## ✨ Features
 
