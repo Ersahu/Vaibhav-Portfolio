@@ -1,12 +1,6 @@
 # 🚀 Vaibhav Portfolio
 
 A modern and responsive personal portfolio showcasing my projects, technical skills, education, experience, and achievements in Software Development, Full-Stack Development, and Artificial Intelligence.
-
-![Portfolio](https://img.shields.io/badge/Next.js-15-black?logo=next.js)
-![React](https://img.shields.io/badge/React-19-blue?logo=react)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css)
-![License](https://img.shields.io/badge/License-MIT-green)
-
 ---
 
 ## 🌐 Live Demo
