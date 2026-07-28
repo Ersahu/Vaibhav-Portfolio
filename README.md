@@ -99,20 +99,15 @@ NEXT_PUBLIC_EMAILJS_PUBLIC_KEY=your_public_key
 
 ---
 
-## 📸 Screenshots
+## 🤝 Contributions
+We welcome pull requests! For major changes, please open an issue to discuss what you'd like to improve or add.
 
-> Add screenshots of your portfolio homepage, projects section, and contact page.
+## 📧 Contact
+**Developer**: Vaibhav
 
----
+**Email**: sahuvaibhav064@gmail.com
 
-## 📬 Contact
+**LinkedIn**: https://www.linkedin.com/in/vaibhav-chaudhary-615712272/
 
-**Vaibhav Sahu**
-
-- GitHub: https://github.com/Ersahu
-- LinkedIn: https://linkedin.com/in/your-linkedin
-- Email: sahuvaibhav064@gmail.com
-
----
-
-⭐ If you like this project, consider giving it a star!
+## 📜 License
+MIT License © 2025 Vaibhav
